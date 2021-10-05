@@ -1,7 +1,7 @@
 const help = (p, date, user, wame) => {
 return `
 ╭━━━━━━━━━━━━━━━━━━━╮
-┃☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️
+┃        𝑺𝒙𝒓𝒈𝒙𝒙 𝑶𝒓𝒊𝒐𝒏🇲🇽
 ┃  
 ┃ 🕐 𝐃𝐚𝐭𝐚 𝐞 𝐡𝐨𝐫𝐚: ${date}
 ┃ 🙂 𝐔𝐬𝐮𝐚́𝐫𝐢𝐨: ${user}
@@ -10,19 +10,16 @@ return `
 ┃
 ┣━━ 🤩 𝑹𝑬𝑫𝑬𝑺 𝑺𝑶𝑪𝑰𝑨𝑰𝑺 🤩 ━╮
 ┃
-┃ 📷 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: @brizasbot01
+┃ 📷 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: @sxrgxx.02
 ┃
-┃ 🤖𝐆𝐢𝐭𝐡𝐮𝐛:
-┃ 🌐https://suaurl.com/f31687
+┃ 🤖Creador: wa.me/525623741080
 ┃
 ┃ 🪀𝐆𝐫𝐮𝐩𝐨:
-┃ 🌐https://suaurl.com/Brizas-grupo
+┃ 🌐 https://chat.whatsapp.com/DW9LNS0N3EQK0vv0ywGg51
 ┃
 ┃ 📹𝐘𝐨𝐮𝐭𝐮𝐛𝐞:
-┃ 🌐https://suaurl.com/c12fe7
+┃ http://ຯ❏͜ᰰ🍡۪۪ị¡-𝕾𝖝𝖗𝖌𝖝𝖝.li
 ┃
-┃ 🤑𝐁𝐫𝐢𝐳𝐚𝐬-𝐚𝐩𝐢:
-┃ 🌐https://suaurl.com/e55630
 ┃
 ┣━━━⚡ 𝙋𝙍𝙄𝙉𝘾𝙄𝙋𝘼𝙄𝙎 ⚡━━━╮
 ┃ ${p}brizasapi
@@ -229,8 +226,6 @@ return `
 ┃ ${p}tttme
 ┃ ${p}tttrank
 ┃ ${p}ttthelp
-┃ ${p}delttc
-┃ ${p}tictactoe
 ┣━━━━━🎥 𝙑𝙄́𝘿𝙀𝙊 🎥━━━━╮
 ┃ ${p}bold (txt)
 ┃ ${p}poly (txt)
@@ -245,22 +240,10 @@ return `
 ┃ ${p}togif (resp video)
 ┃ ${p}resizevid (lag) (alt) (resp vid)
 ┣━━━━━🎨 𝙇𝙊𝙂𝙊𝙎 🎨━━━━╮
+┃ ${p}missionpassed (t1) | (t2)
 ┃ ${p}nulis (txt)
-┃ ${p}undgrass (txt)
-┃ ${p}love (txt)
-┃ ${p}coffe (txt)
-┃ ${p}coffe2 (txt)
-┃ ${p}cemitery (txt)
-┃ ${p}gradient (txt)
-┃ ${p}glowing (txt)
-┃ ${p}shinerainbow (txt)
-┃ ${p}graffiti (txt)
-┃ ${p}neonpink (txt)
-┃ ${p}neonrainbow (txt)
-┃ ${p}neongreen (txt)
-┃ ${p}neonblue (txt)
-┃ ${p}neonyellow (txt)
-┃ ${p}neonsky (txt)
+┃ ${p}watercolor (txt)
+┃ ${p}neonlogo (txt)
 ┃ ${p}flowerlogo (txt)
 ┃ ${p}matrixlogo (txt)
 ┃ ${p}thunderlogo (txt)
@@ -269,6 +252,7 @@ return `
 ┃ ${p}narutologo (txt)
 ┃ ${p}phlogo (t1) | (t2)
 ┃ ${p}mineconquista (t1) | (t2)
+┃ ${p}shadow (txt)
 ┃ ${p}glitch (t1) | (t2)
 ┃ ${p}ravetxt (t1) | (t2)
 ┃ ${p}woodtxt (t1) | (t2)
@@ -456,6 +440,7 @@ return `
 ┃ ${p}instastalk (name)
 ┃ ${p}githubstalk (name)
 ┃ ${p}tiktokstalk (name)
+┃ ${p}ffstalk (id ff)
 ┣━━━😳 𝙄𝙉𝙏𝙀𝙍𝘼𝘾̧𝘼̃𝙊 😳━━━╮
 ┃ ${p}vsf
 ┃ ${p}botfofo
@@ -491,6 +476,7 @@ return `
 ┃ ${p}realhoje
 ┃ ${p}cvoin (c1)|(c2)
 ┃ ${p}ccoin (c1)|(c2)|(num)
+http://ຯ❏͜ᰰ🍡۪۪ị¡-𝕾𝖝𝖗𝖌𝖝𝖝.li
 ╰━━━━━━━━━━━━━━━━━━━╯`
 }
 
